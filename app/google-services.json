@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077802142820",
+    "project_id": "pilltest-925a8",
+    "storage_bucket": "pilltest-925a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077802142820:android:0cd70a03eb60c8bd886371",
+        "android_client_info": {
+          "package_name": "com.example.cameraxandmlkitkorean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077802142820-rq6g060bmckq5ts3nubmf3s68oaa61lh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMCVjnJdh66REaquCPyVY555KlbhqbPP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077802142820-rq6g060bmckq5ts3nubmf3s68oaa61lh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
